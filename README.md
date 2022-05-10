@@ -8,13 +8,9 @@ Software Key in Python | CSS | HTML | JavaScript | ReactJS | MySQL and more
 
 👯 I am looking for the professional opinion of the software engineers for the jobs I upload for the purpose of learning and improving my self-abilities
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 <h3 align="left">Connect with me:</h3>
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
 
  www.linkedin.com/in/nadav-levi-electrical-engineering 
 
