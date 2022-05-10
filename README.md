@@ -11,8 +11,8 @@ Software Key in Python | CSS | HTML | JavaScript | ReactJS | MySQL and more
 
 <h3 align="left">Connect with me:</h3>
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/nadav-levi-electrical-engineering )
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/nadav-levi-electrical-engineering )
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
 
  www.linkedin.com/in/nadav-levi-electrical-engineering 
