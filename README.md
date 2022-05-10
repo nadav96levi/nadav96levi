@@ -12,7 +12,8 @@ Software Key in Python | CSS | HTML | JavaScript | ReactJS | MySQL and more
 <h3 align="left">Connect with me:</h3>
 
 
- www.linkedin.com/in/nadav-levi-electrical-engineering 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nadav96levi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/nadav-levi-electrical-engineering/)  
 
 
 <h3 align="left">Languages and Tools:</h3>
