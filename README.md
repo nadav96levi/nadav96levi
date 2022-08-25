@@ -1,5 +1,4 @@
-Hello 👋 This is Nadav
-
+<h2>Hello 👋 My name is Nadav Levi </h2>
 <img align="right" alt="GIF" src="https://github.com/nadav96levi/nadav96levi/blob/main/7cd53d36d121d839da9600ca055b01db.gif" width="350" height="300" />
 
 A programmer from Israel
