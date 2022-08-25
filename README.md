@@ -2,12 +2,9 @@ Hello 👋 This is Nadav
 
 A programmer from Israel
 
-Programmer in a wide variety of code languages, like : Python | CSS | HTML | JavaScript | ReactJS | MySQL and more
+🌱 Python language programmer in libraries NumPy|Pandas|ScuPy|Scikit-Learn|Keras|PyTorch & Intelligence developer and researcher at AI|ML|DL.
 
-🌱 I am currently studying development in the field of DevOps & ML and the link to AWS
-
-👯 I am looking for the professional opinion of the software engineers for the jobs I upload for the purpose of learning and improving my self-abilities
-
+👯 I am looking for my next challenge in the world of hardware and software with an emphasis on artificial intelligence and medical engineering for the purpose of learning and improving my own abilities
 
 <h3 align="left">Connect with me:</h3>
 
