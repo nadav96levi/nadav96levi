@@ -1,4 +1,4 @@
-<h2>Hello 👋 I'm Nadav </h2>
+<h1>Hello 👋 I'm Nadav </h1>
 <img align="right" alt="GIF" src="https://github.com/nadav96levi/nadav96levi/blob/main/7cd53d36d121d839da9600ca055b01db.gif" width="350" height="300" />
 
 🔭 I am a researcher and developer algorithms in AI|ML|DL|NN.
@@ -17,6 +17,3 @@ If you have any feedback, please reach out to us at nadav2908levi@gmail.com
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadav96levi&show_icons=true)  
-![GitHub metrics](https://metrics.lecoq.io/nadav96levi)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nadav96levi)  
