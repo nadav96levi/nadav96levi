@@ -1,6 +1,6 @@
 Hello 👋 This is Nadav
 
-<img align="right" alt="GIF" src="https://github.com/nadav96levi/nadav96levi/blob/main/7cd53d36d121d839da9600ca055b01db.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/nadav96levi/nadav96levi/blob/main/7cd53d36d121d839da9600ca055b01db.gif" width="400" height="320" />
 
 A programmer from Israel
 
