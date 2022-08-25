@@ -1,5 +1,7 @@
 Hello 👋 This is Nadav
 
+<img align="right" alt="GIF" src="C:\Users\nadav\Documents\GitHub\nadav96levi\7cd53d36d121d839da9600ca055b01db.gif" width="500" height="320" />
+
 A programmer from Israel
 
 🌱 Python language programmer in libraries NumPy|Pandas|ScuPy|Scikit-Learn|Keras|PyTorch & Intelligence developer and researcher at AI|ML|DL.
