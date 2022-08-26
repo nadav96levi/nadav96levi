@@ -18,7 +18,7 @@ Scikit-Learn|Keras|PyTorch|Matplotlib|Sk-learn|Tensorflow|OpenCV
 
 ⏳ **Year Progress** { ███████████████████▁▁▁▁▁▁▁▁▁▁▁ } 64.67%
 
-  <br></br>
+
 
 <h2 align="center">Connect with me:</h2>
 
