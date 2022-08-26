@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Developer%20artificial%20intelligence;Researcher%20ML|%20DL|%20NN;Always%20learning%20new%20things&font=Fira%20Code&left=true&width=440&height=45&color=f75c7e&vleft=true&size=22&pause=1000"></a>
 
-<img align="right" alt="GIF" src="https://github.com/nadav96levi/nadav96levi/blob/main/7cd53d36d121d839da9600ca055b01db.gif" width="340" height="330" />
+<img align="right" alt="GIF" src="https://github.com/nadav96levi/nadav96levi/blob/main/7cd53d36d121d839da9600ca055b01db.gif" width="320" height="320" />
   
   
 🔭 I am a researcher and developer algorithms in AI|ML|DL|NN.
