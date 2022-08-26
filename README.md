@@ -8,7 +8,8 @@
   
 🔭 I am a researcher and developer algorithms in AI|ML|DL|NN.
 
-🌱 Python language programmer in libraries NumPy|Pandas|ScuPy|Scikit-Learn|Keras|PyTorch|Matplotlib|Sk-learn|Tensorflow|OpenCV 
+🌱 Python language programmer in libraries NumPy|Pandas|ScuPy|
+Scikit-Learn|Keras|PyTorch|Matplotlib|Sk-learn|Tensorflow|OpenCV 
 
 👯 I am looking for my next challenge in the world of hardware and software with an emphasis on artificial intelligence and medical engineering for the purpose of learning and improving my own abilities
 
