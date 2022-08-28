@@ -32,6 +32,8 @@ Scikit-Learn|Keras|PyTorch|Matplotlib|Sk-learn|Tensorflow|OpenCV
   <dd>- Will be up soon</dd>
     <dt>Space science and stars</dt>
   <dd>- Will be up soon</dd>
+      <dt>The worlds of artificial intelligence development</dt>
+  <dd>- Will be up soon</dd>
 </dl>
 
 <h2 align="center">Languages and Tools:</h2>
