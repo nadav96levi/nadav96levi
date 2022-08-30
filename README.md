@@ -29,7 +29,7 @@ Scikit-Learn|Keras|PyTorch|Matplotlib|Sk-learn|Tensorflow|OpenCV
   <dt>Biology, technology and what's in them</dt>
   <dd><li><a href="https://www.linkedin.com/pulse/biology-technology-whats-them-from-artificial-human-levi-%25D7%25A0%25D7%2593%25D7%2591-%25D7%259C%25D7%2595%25D7%2599/?trackingId=t5q0Ns7NSRiKuvyvfKGMeg%3D%3D">Biology, technology and what's in them: From artificial intelligence to the human brain</a></li></dd>
   <dt>Algorithm, code and mathematical complexities</dt>
-  <dd>- Will be up soon</dd>
+  <dd><li><a href="https://www.linkedin.com/pulse/biology-technology-whats-them-from-artificial-human-levi-%25D7%25A0%25D7%2593%25D7%2591-%25D7%259C%25D7%2595%25D7%2599/?trackingId=t5q0Ns7NSRiKuvyvfKGMeg%3D%3D">Biology, technology and what's in them: From artificial intelligence to the human brain</a></li></dd>
     <dt>Space science and stars</dt>
   <dd>- Will be up soon</dd>
       <dt>The worlds of artificial intelligence development</dt>
