@@ -72,7 +72,3 @@ Scikit-Learn|Keras|PyTorch|Matplotlib|Sk-learn|Tensorflow|OpenCV
 
 
 
-
-
-
-
