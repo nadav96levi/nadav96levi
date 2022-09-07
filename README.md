@@ -35,7 +35,7 @@ Scikit-Learn|Keras|PyTorch|Matplotlib|Sk-learn|Tensorflow|OpenCV
       <dt>The worlds of artificial intelligence development</dt>
   <dd>- Will be up soon</dd>
      <dt>Functions and capabilities in radio frequency</dt>
-  <dd>- Will be up soon</dd>
+  <dd><li><a href="https://www.linkedin.com/pulse/functions-capabilities-radio-frequency-digital-analog-nadav">Functions and capabilities in radio frequency: Digital and analog signal processing</a></li></dd>
 </dl>
 
 <h2 align="center">Languages and Tools:</h2>
